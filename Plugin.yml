@@ -1,7 +1,7 @@
- name: OneblockPlDat
+name: OneblockPlDat
 
 version: 2.0.0
 
 apl: [4.0.0]
 
-main: BadPlugin\
+main: Oneblock/
