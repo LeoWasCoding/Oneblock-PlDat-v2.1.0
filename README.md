@@ -14,5 +14,5 @@ From This You Can Download The "Oneblock" Plugin Data.
 5. Now Add My Plugin Data
 6. Then Restart The Server And Done!
 # Contributors
-Discord: EXTER LEO#4105
-YouTube: ExTeR NaTiOn
+- Discord: EXTER LEO#4105
+- YouTube: ExTeR NaTiOn
